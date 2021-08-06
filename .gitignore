@@ -12,7 +12,7 @@
 /build
 
 #hosting
-/firebase
+/.firebase
 
 # misc
 .DS_Store
